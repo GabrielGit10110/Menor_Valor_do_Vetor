@@ -36,7 +36,7 @@ java -cp dist view.AnaliseVetor
 1. Crie um MANIFEST.txt e adicione o caminho correto para a classe Main:
 ```bash
 touch MANIFEST.txt
-echo 'Main-Class: view.Analisevetor' > MANIFEST.txt
+echo 'Main-Class: view.AnaliseVetor' > MANIFEST.txt
 ```
 
 2. Faca a compilação para jar:
