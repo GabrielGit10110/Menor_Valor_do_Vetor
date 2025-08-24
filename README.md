@@ -8,6 +8,19 @@ valor contido neste vetor.
 O Código deve apresentar, em formato de comentário, como foi definida a condição de parada;
 O Código deve apresentar, em formato de comentário, como foi definida a relação de chamada dos passos;
 
+---
+
+## Como usar:
+
+### Clone esse repositório:
+```bash
+git clone https://github.com/GabrielGit10110/Menor_Valor_do_Vetor.git
+```
+### Entre no diretório:
+```bash
+cd Menor_Valor_do_Vetor
+```
+
 ### ⚙️ Como compilar:
 1. Transforme todos os arquivos.java em arquivos.class:
 ```bash
